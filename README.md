@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1>Agostina Argañaraz</h1>
+<h2> Acerca de mi: </h2>
+<p>Nací el 11 de octubre de 2006. Tengo 17 años. Soy de Salta, Argentina. Tengo 3 hermanos y 3 perritos</p>
+<h2> Gustos </h2> 
+<ul>
+<li>Caminar</li>
+<li>Comer pizzar</li>
+<li>Tomar Mate</li>
+<li>Y el chocolate </li>
+</ul>
 
-<!--
-**agostina-arga/agostina-arga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
